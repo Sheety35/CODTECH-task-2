@@ -3,9 +3,9 @@
 
 ## Project Information
 
-- *Name*: Mruthyunjaya S
+- *Name*: Shashank K
 - *Company*: CODTECH IT Solutions
-- *ID*: CT4ML4545
+- *ID*: CT/08DS4334
 - *Domain*: Machine Learning
 - *Duration*: July to August 2024
 
