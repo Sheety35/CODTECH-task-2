@@ -88,4 +88,4 @@ To run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Sheety35/your-repository.git
